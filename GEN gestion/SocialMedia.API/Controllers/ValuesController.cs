@@ -7,6 +7,9 @@ namespace SocialMedia.Api.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
-        public IActionResult GetAction
+        public IActionResult GetAction()
+        {
+            return Ok(null);
+        }
     }
 }
