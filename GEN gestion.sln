@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialMedia.Api", "SocialMedia.API\SocialMedia.Api.csproj", "{80A91F1A-E623-4870-ADC9-B8865F59374F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GENGestion.Api", "SocialMedia.API\GENGestion.Api.csproj", "{80A91F1A-E623-4870-ADC9-B8865F59374F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialMedia.Core", "SocialMedia.Core\SocialMedia.Core.csproj", "{0AC56403-35C9-4262-A7CB-8451419EDEAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GENGestion.Core", "SocialMedia.Core\GENGestion.Core.csproj", "{0AC56403-35C9-4262-A7CB-8451419EDEAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialMedia.Infrastructure", "SocialMedia.Infrastructure\SocialMedia.Infrastructure.csproj", "{8E1A26C2-2A3F-462E-8F03-D6CF4E0DAA51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GENGestion.Infrastructure", "SocialMedia.Infrastructure\GENGestion.Infrastructure.csproj", "{8E1A26C2-2A3F-462E-8F03-D6CF4E0DAA51}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{7CB6C0B2-99FF-45C7-B627-806C9F99D3D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialMedia.UniTests", "SocialMedia.UniTests\SocialMedia.UniTests.csproj", "{42C4F281-9DC3-49FE-AFE5-0B79E79C9B5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialMedia.UniTests", "SocialMedia.UniTests\SocialMedia.UniTests.csproj", "{42C4F281-9DC3-49FE-AFE5-0B79E79C9B5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialMedia.IntegrationTests", "SocialMedia.IntegrationTests\SocialMedia.IntegrationTests.csproj", "{3F77C6A0-F318-4204-AB37-F3D21F40FD20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialMedia.IntegrationTests", "SocialMedia.IntegrationTests\SocialMedia.IntegrationTests.csproj", "{3F77C6A0-F318-4204-AB37-F3D21F40FD20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

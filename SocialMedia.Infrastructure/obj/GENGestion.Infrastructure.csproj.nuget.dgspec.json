@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\borrione\\source\\repos\\ProyectoFinal-main\\GEN gestion\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {}
+    "C:\\Users\\borrione\\source\\repos\\ProyectoFinal-main\\GEN gestion\\SocialMedia.Infrastructure\\GENGestion.Infrastructure.csproj": {}
   },
   "projects": {
     "C:\\Users\\borrione\\source\\repos\\ProyectoFinal-main\\GEN gestion\\SocialMedia.Core\\GENGestion.Core.csproj": {
@@ -58,12 +58,12 @@
         }
       }
     },
-    "C:\\Users\\borrione\\source\\repos\\ProyectoFinal-main\\GEN gestion\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
+    "C:\\Users\\borrione\\source\\repos\\ProyectoFinal-main\\GEN gestion\\SocialMedia.Infrastructure\\GENGestion.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\borrione\\source\\repos\\ProyectoFinal-main\\GEN gestion\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
-        "projectName": "SocialMedia.Infrastructure",
-        "projectPath": "C:\\Users\\borrione\\source\\repos\\ProyectoFinal-main\\GEN gestion\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\borrione\\source\\repos\\ProyectoFinal-main\\GEN gestion\\SocialMedia.Infrastructure\\GENGestion.Infrastructure.csproj",
+        "projectName": "GENGestion.Infrastructure",
+        "projectPath": "C:\\Users\\borrione\\source\\repos\\ProyectoFinal-main\\GEN gestion\\SocialMedia.Infrastructure\\GENGestion.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\borrione\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\borrione\\source\\repos\\ProyectoFinal-main\\GEN gestion\\SocialMedia.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
@@ -97,6 +97,18 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

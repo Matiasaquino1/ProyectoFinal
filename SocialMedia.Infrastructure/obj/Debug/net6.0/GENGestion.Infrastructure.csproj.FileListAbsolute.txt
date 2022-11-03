@@ -1,0 +1,5 @@
+C:\Users\borrione\source\repos\ProyectoFinal-main\GEN gestion\SocialMedia.Infrastructure\obj\Debug\net6.0\GENGestion.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\borrione\source\repos\ProyectoFinal-main\GEN gestion\SocialMedia.Infrastructure\obj\Debug\net6.0\GENGestion.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borrione\source\repos\ProyectoFinal-main\GEN gestion\SocialMedia.Infrastructure\obj\Debug\net6.0\GENGestion.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\borrione\source\repos\ProyectoFinal-main\GEN gestion\SocialMedia.Infrastructure\obj\Debug\net6.0\GENGestion.Infrastructure.AssemblyInfo.cs
+C:\Users\borrione\source\repos\ProyectoFinal-main\GEN gestion\SocialMedia.Infrastructure\obj\Debug\net6.0\GENGestion.Infrastructure.csproj.CoreCompileInputs.cache
